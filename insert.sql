@@ -1,0 +1,1 @@
+INSERT INTO test(id, name, age, phone, city) VALUES (1, "Rakesh", 23, 9823271, "Katari");
